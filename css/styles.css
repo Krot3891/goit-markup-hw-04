@@ -406,7 +406,7 @@ border: 1px solid #8E8F99;
 border-radius: 4px;
 }
 
-.clients:hover .clients-link-item,
+/*.clients:hover .clients-link-item,
 .clients:focus .clients-link-item {
 fill: #404BBF;
 }
@@ -414,8 +414,7 @@ fill: #404BBF;
 .clients:hover,
 .clients:focus {
 border-color: #404BBF;
-color: #404bbf;
-}
+}*/
 
 .clients-link-item {
 fill: #8E8F99;
