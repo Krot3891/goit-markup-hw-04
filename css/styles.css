@@ -438,11 +438,13 @@ color: #404bbf;
 .clients:hover,
 .clients:focus {
 border-color: #404bbf;
-
+color: #404bbf;
 }
 
 
-
+.clients-item {
+fill: currentColor;
+}
 
 
 
