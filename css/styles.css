@@ -408,7 +408,9 @@ border-radius: 4px;
 
 .clients:hover .clients-link-item,
 .clients:focus .clients-link-item {
-fill: #404BBF;
+border-color: #404bbf;
+color: #404bbf;
+    /*fill: #404BBF;*/
 }
 
 .clients:hover,
