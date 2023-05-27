@@ -385,57 +385,59 @@ padding: 32px 16px;
 /*----------CLIENTS-----------*/
 
 .clients-container {
-    padding-top: 120px;
-    padding-bottom: 120px;
+padding-top: 120px;
+padding-bottom: 120px;
 }
 
 .clients-list {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 24px;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 24px;
 }
 
 .clients {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 168px;
-    height: 88px;
-    border: 1px solid #8E8F99;
-    border-radius: 4px;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 168px;
+height: 88px;
+border: 1px solid #8E8F99;
+border-radius: 4px;
 }
 
 .clients:hover .clients-link-item,
 .clients:focus .clients-link-item {
-    fill: #404BBF;
+fill: #404BBF;
 }
 
 .clients:hover,
 .clients:focus {
-    border-color: #404BBF;
+border-color: #404BBF;
 }
 
 .clients-link-item {
-    fill: #8E8F99;
-    width: 100%;
-    height: 100%;
-    border: 1px solid #8e8f99;
-    border-radius: 4px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #8e8f99;
+fill: #8E8F99;
+width: 100%;
+height: 100%;
+border: 1px solid #8e8f99;
+border-radius: 4px;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #8e8f99;
 }
 
 .clients:hover .clients-link-item,
 .clients:focus .clients-link-item {
-    fill: #404BBF;
+fill: #404BBF;
+border-color: #404bbf;
+color: #404bbf;
 }
 
 .clients:hover,
 .clients:focus {
-    border-color: #404BBF;
+border-color: #404BBF;
 }
 
 
