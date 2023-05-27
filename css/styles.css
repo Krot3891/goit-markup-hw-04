@@ -430,7 +430,7 @@ color: #8e8f99;
 
 .clients:hover .clients-link-item,
 .clients:focus .clients-link-item {
-fill: #404BBF;
+
 border-color: #404bbf;
 color: #404bbf;
 }
