@@ -426,11 +426,15 @@ background-color: var(--primary-text-color);
 padding: 100px 0;
 }
 
+.footer-logo-container {
+margin-right: 120px;
+}
+
 .footer-container {
 display: flex;
 justify-content: left;
 align-items: baseline;
-gap: 120px;
+
 }
 
 .footer-logo {
