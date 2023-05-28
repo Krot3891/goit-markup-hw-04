@@ -417,7 +417,7 @@ color: #404bbf;
 }
 
 .clients-item {
-width: 168px;
+width: 108px;
 height: 88px;
 fill: currentColor;
 
@@ -495,13 +495,13 @@ margin-bottom: 16px;
 }
 
 .footer-links {
-margin-left: 120px;
+margin-left: 80px;
 }
 
 .footer-list {
 display: flex;
 justify-content: center;
-gap: 16px;
+gap: 6px;
 }
 
 .footer-list-item:not(:last-child) {
