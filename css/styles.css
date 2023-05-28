@@ -395,8 +395,8 @@ gap: 24px;
 }
 
 .clients {
-width: calk((100% - 150px) / 6);
-height: 90px;
+width: calk((100% - 120px) / 6);
+height: 88px;
 }
 
 .clients-link-item {
@@ -412,17 +412,20 @@ justify-content: center;
 .clients-link-item:hover,
 .clients-link-item:focus {
 border-color: #404BBF;
+color: #404bbf;
 }
 
 .clients-item {
 width: 168px;
 height: 88px;
 fill: #8e8f99;
+
 }
 
 .clients-item:hover,
 .clients-item:focus {
 fill: #404BBF;
+color: #404bbf;
 }
 
 
