@@ -504,9 +504,10 @@ justify-content: center;
 gap: 16px;
 }
 
-.footer-list-item:not(:last-child) {
-margin-right: 16px;
+.footer-list-item {
+width: calc((100% - 48px) / 4);
 }
+
 
 .footer-link-item {
 display: flex;
